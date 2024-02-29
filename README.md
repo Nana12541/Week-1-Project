@@ -2,7 +2,7 @@
 
 Submitted by: **Nana Brobbey**
 
-This web app: **This project is givers the user some glipmse into what software engineering is about**
+This web app: **This project is givers the user some glimpse into what software engineering is about**
 
 Time spent: **5** hours spent in total
 
