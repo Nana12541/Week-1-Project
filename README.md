@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Software Engingeering Resources*
+# Web Development Project 1 - *Software Engineering Resources*
 
 Submitted by: **Nana Brobbey**
 
